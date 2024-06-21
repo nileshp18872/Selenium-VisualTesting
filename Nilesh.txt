@@ -1,0 +1,13 @@
+https://applitools.com
+
+
+
+
+test website 
+https://applitools.com/helloworld/
+
+https://applitools.com/helloworld/?diff1
+
+https://applitools.com/helloworld/?diff2
+
+
